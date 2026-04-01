@@ -1,6 +1,6 @@
 👋 Hi, I’m @adamagicic
 
-I'm currently a Physics grad student in Zagreb, interested in machine learning in HEP experiments.
+I'm currently a Physics grad student in Zagreb, interested in theoretical nuclear physics, the quantum many-body problem and computational physics.
 
 
 <!---
